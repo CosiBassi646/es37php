@@ -1,7 +1,7 @@
 <?php
     $host = "localhost"; 
     $user = "root";
-    $db = "aeroporto";
+    $db = "aereoportodb";
     $pass = "";
     //variabile di connessione
     $conn = mysqli_connect($host, $user, $pass, $db);
